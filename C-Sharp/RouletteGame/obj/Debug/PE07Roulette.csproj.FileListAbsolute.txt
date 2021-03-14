@@ -1,0 +1,9 @@
+C:\Users\Jae Yi\MSSA2021\ISTA322\Exercises\PE07Roulette\bin\Debug\PE07Roulette.exe.config
+C:\Users\Jae Yi\MSSA2021\ISTA322\Exercises\PE07Roulette\bin\Debug\PE07Roulette.exe
+C:\Users\Jae Yi\MSSA2021\ISTA322\Exercises\PE07Roulette\bin\Debug\PE07Roulette.pdb
+C:\Users\Jae Yi\MSSA2021\ISTA322\Exercises\PE07Roulette\obj\Debug\PE07Roulette.csprojAssemblyReference.cache
+C:\Users\Jae Yi\MSSA2021\ISTA322\Exercises\PE07Roulette\obj\Debug\PE07Roulette.csproj.CoreCompileInputs.cache
+C:\Users\Jae Yi\MSSA2021\ISTA322\Exercises\PE07Roulette\obj\Debug\PE07Roulette.exe
+C:\Users\Jae Yi\MSSA2021\ISTA322\Exercises\PE07Roulette\obj\Debug\PE07Roulette.pdb
+C:\Users\Jae Yi\MSSA2021\ISTA322\Exercises\PE07Roulette\bin\Debug\SupportSounds\Recording.wav
+C:\Users\Jae Yi\MSSA2021\ISTA322\Exercises\PE07Roulette\bin\Debug\SupportSounds\duck-quack6.wav
