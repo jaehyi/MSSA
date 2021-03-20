@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Security.Cryptography;
 using System.Text;
+using System.Threading;
 
 namespace PE09PasswordHashingAndAuthentication
 {
@@ -39,7 +40,7 @@ namespace PE09PasswordHashingAndAuthentication
                         break;
                 }
                 // Pause();
-              
+
                 Console.WriteLine();
                 (min, max) = DisplayMainMenu();
                 userResponse = GetUserResponse(min, max);
@@ -88,19 +89,30 @@ namespace PE09PasswordHashingAndAuthentication
 
             if (userAlreadyExists(user, database))
             {
-                displayInColor("\nThe user name you entered already exists in the system. Want to try again? [Y] or [N]: ", ConsoleColor.Red, false);
+                displayInColor("\nThe user name you entered already exists in the system. Want to try again? [Y]es or [N]o: ", ConsoleColor.Red, false);
                 string userResponse;
 
                 do
                 {
                     Console.ForegroundColor = ConsoleColor.Blue;
-                    userResponse = Console.ReadLine();
+                    userResponse = Console.ReadLine().ToUpper();
                     Console.ResetColor();
-                } while (!(userResponse.ToUpper() == "Y" || userResponse.ToUpper() == "N"));
+                } while (!(userResponse == "Y" || userResponse == "N"));
 
-                if (userResponse.ToUpper() == "Y") AddUser(database);
+                if (userResponse == "Y") AddUser(database);
+                else return;
             }
             else storePassword(user, database);
+
+            //Console.Write("Do you want to create another user? [Y]es, [N]o: ");
+            //string keyPressed = Console.ReadLine().ToUpper();
+            //while (!(keyPressed == "Y" || keyPressed == "N"))
+            //{
+            //    displayInColor("\nPlease enter either Y or N: ", ConsoleColor.Red, false);
+            //    keyPressed = Console.ReadLine().ToUpper();
+            //}
+
+            //if (keyPressed == "Y") AddUser(database);
         }
 
         private static void storePassword(string user, Dictionary<string, string> database)
@@ -111,6 +123,7 @@ namespace PE09PasswordHashingAndAuthentication
             Console.ResetColor();
             database[user] = getHashString(password);
             displayInColor("\nA new user account has been created successfully!", ConsoleColor.Green);
+            Thread.Sleep(1500);
         }
 
         private static string getNonZeroLengthUserName()
@@ -153,8 +166,17 @@ namespace PE09PasswordHashingAndAuthentication
         {
             Console.WriteLine("\nHere are all existing users in the database:");
             Console.ForegroundColor = ConsoleColor.Green;
-            foreach (var user in database)
-                Console.WriteLine($"User: {user.Key.PadRight(20)}  Password: {user.Value} ");
+
+            if (database.Count == 0)
+            {
+                displayInColor("There are no users in the database to display. Please try again after adding at least one user.", ConsoleColor.Red);
+            }
+            else
+            {
+                foreach (var user in database)
+                    Console.WriteLine($"User: {user.Key.PadRight(20)}  Password: {user.Value} ");
+            }
+
             Console.ResetColor();
             Console.WriteLine();
         }
@@ -164,6 +186,15 @@ namespace PE09PasswordHashingAndAuthentication
             string hashedUserInput = getHashString(userInput);
             displayInColor($"Original Input: {userInput}    Hashed Output: {hashedUserInput}", ConsoleColor.Green);
             Console.WriteLine();
+            Console.Write("Do you have another text to enter? [Y]es, [N]o: ");
+            string keyPressed = Console.ReadLine().ToUpper();
+            while (!(keyPressed == "Y" || keyPressed == "N"))
+            {
+                displayInColor("\nPlease enter either Y or N: ", ConsoleColor.Red, false);
+                keyPressed = Console.ReadLine().ToUpper();
+            }
+
+            if (keyPressed == "Y") DisplayHashedString();
         }
 
         private static bool userAlreadyExists(string user, Dictionary<string, string> database)
