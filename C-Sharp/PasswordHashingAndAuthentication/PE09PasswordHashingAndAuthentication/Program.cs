@@ -39,7 +39,9 @@ namespace PE09PasswordHashingAndAuthentication
                     case 5: // this is currently the max value; when selected, the program will exit
                         break;
                 }
-                // Pause();
+                Console.WriteLine("\nPress any key to continue...");
+                Console.ReadLine();
+                Console.Clear();
 
                 Console.WriteLine();
                 (min, max) = DisplayMainMenu();
@@ -123,7 +125,7 @@ namespace PE09PasswordHashingAndAuthentication
             Console.ResetColor();
             database[user] = getHashString(password);
             displayInColor("\nA new user account has been created successfully!", ConsoleColor.Green);
-            Thread.Sleep(1500);
+            // Thread.Sleep(1500);
         }
 
         private static string getNonZeroLengthUserName()
