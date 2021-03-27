@@ -1,0 +1,7 @@
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE10BaseNumberConversion\PE10BaseNumberConversion\bin\Debug\PE10BaseNumberConversion.exe.config
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE10BaseNumberConversion\PE10BaseNumberConversion\bin\Debug\PE10BaseNumberConversion.exe
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE10BaseNumberConversion\PE10BaseNumberConversion\bin\Debug\PE10BaseNumberConversion.pdb
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE10BaseNumberConversion\PE10BaseNumberConversion\obj\Debug\PE10BaseNumberConversion.csprojAssemblyReference.cache
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE10BaseNumberConversion\PE10BaseNumberConversion\obj\Debug\PE10BaseNumberConversion.csproj.CoreCompileInputs.cache
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE10BaseNumberConversion\PE10BaseNumberConversion\obj\Debug\PE10BaseNumberConversion.exe
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE10BaseNumberConversion\PE10BaseNumberConversion\obj\Debug\PE10BaseNumberConversion.pdb
