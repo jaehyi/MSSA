@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Binary.cs" />
+    <Compile Include="Decimal.cs" />
+    <Compile Include="Hexadecimal.cs" />
+    <Compile Include="NumberBase.cs" />
+    <Compile Include="NumberBaseUtility.cs" />
+    <Compile Include="Octal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
