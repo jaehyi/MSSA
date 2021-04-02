@@ -10,6 +10,7 @@ namespace PE11VectorDistanceCalculation
     {
         static void Main(string[] args)
         {
+            //only valid place to have try-catch block that catches exception
             Menu.Run();
         }
     }
