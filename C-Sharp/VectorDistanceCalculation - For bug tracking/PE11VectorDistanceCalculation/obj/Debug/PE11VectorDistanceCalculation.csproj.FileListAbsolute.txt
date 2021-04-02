@@ -1,0 +1,14 @@
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE11VectorDistanceCalculation\PE11VectorDistanceCalculation\bin\Debug\PE11VectorDistanceCalculation.exe.config
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE11VectorDistanceCalculation\PE11VectorDistanceCalculation\bin\Debug\PE11VectorDistanceCalculation.exe
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE11VectorDistanceCalculation\PE11VectorDistanceCalculation\bin\Debug\PE11VectorDistanceCalculation.pdb
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE11VectorDistanceCalculation\PE11VectorDistanceCalculation\obj\Debug\PE11VectorDistanceCalculation.csprojAssemblyReference.cache
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE11VectorDistanceCalculation\PE11VectorDistanceCalculation\obj\Debug\PE11VectorDistanceCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE11VectorDistanceCalculation\PE11VectorDistanceCalculation\obj\Debug\PE11VectorDistanceCalculation.exe
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE11VectorDistanceCalculation\PE11VectorDistanceCalculation\obj\Debug\PE11VectorDistanceCalculation.pdb
+C:\Users\Jae Yi\Desktop\GitHub Repo\MSSA\C-Sharp\VectorDistanceCalculation - For bug tracking\PE11VectorDistanceCalculation\bin\Debug\PE11VectorDistanceCalculation.exe.config
+C:\Users\Jae Yi\Desktop\GitHub Repo\MSSA\C-Sharp\VectorDistanceCalculation - For bug tracking\PE11VectorDistanceCalculation\bin\Debug\PE11VectorDistanceCalculation.exe
+C:\Users\Jae Yi\Desktop\GitHub Repo\MSSA\C-Sharp\VectorDistanceCalculation - For bug tracking\PE11VectorDistanceCalculation\bin\Debug\PE11VectorDistanceCalculation.pdb
+C:\Users\Jae Yi\Desktop\GitHub Repo\MSSA\C-Sharp\VectorDistanceCalculation - For bug tracking\PE11VectorDistanceCalculation\obj\Debug\PE11VectorDistanceCalculation.csprojAssemblyReference.cache
+C:\Users\Jae Yi\Desktop\GitHub Repo\MSSA\C-Sharp\VectorDistanceCalculation - For bug tracking\PE11VectorDistanceCalculation\obj\Debug\PE11VectorDistanceCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Jae Yi\Desktop\GitHub Repo\MSSA\C-Sharp\VectorDistanceCalculation - For bug tracking\PE11VectorDistanceCalculation\obj\Debug\PE11VectorDistanceCalculation.exe
+C:\Users\Jae Yi\Desktop\GitHub Repo\MSSA\C-Sharp\VectorDistanceCalculation - For bug tracking\PE11VectorDistanceCalculation\obj\Debug\PE11VectorDistanceCalculation.pdb
