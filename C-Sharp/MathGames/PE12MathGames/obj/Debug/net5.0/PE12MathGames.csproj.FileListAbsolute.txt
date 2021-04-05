@@ -1,0 +1,16 @@
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\bin\Debug\net5.0\PE12MathGames.exe
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\bin\Debug\net5.0\PE12MathGames.deps.json
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\bin\Debug\net5.0\PE12MathGames.runtimeconfig.json
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\bin\Debug\net5.0\PE12MathGames.runtimeconfig.dev.json
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\bin\Debug\net5.0\PE12MathGames.dll
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\bin\Debug\net5.0\ref\PE12MathGames.dll
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\bin\Debug\net5.0\PE12MathGames.pdb
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\obj\Debug\net5.0\PE12MathGames.csprojAssemblyReference.cache
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\obj\Debug\net5.0\PE12MathGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\obj\Debug\net5.0\PE12MathGames.AssemblyInfoInputs.cache
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\obj\Debug\net5.0\PE12MathGames.AssemblyInfo.cs
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\obj\Debug\net5.0\PE12MathGames.csproj.CoreCompileInputs.cache
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\obj\Debug\net5.0\PE12MathGames.dll
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\obj\Debug\net5.0\ref\PE12MathGames.dll
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\obj\Debug\net5.0\PE12MathGames.pdb
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE12MathGames\PE12MathGames\obj\Debug\net5.0\PE12MathGames.genruntimeconfig.cache
