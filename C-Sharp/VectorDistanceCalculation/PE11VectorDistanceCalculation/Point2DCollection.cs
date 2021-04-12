@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace PE11VectorDistanceCalculation
 {
+    //Not sure the point of this class.
+    //I feel like you should be able to accomplish everything in this class in a method in main.cs
     class Point2DCollection
     {
         private const int collectionSize = 100;
@@ -17,7 +19,8 @@ namespace PE11VectorDistanceCalculation
         private Random random = new Random();
         public Point2DCollection()
         {
-            for (int i = 0; i < collectionSize;)
+            //Don't do this type of loop
+            for (int i = 0; i < collectionSize;)// for (int i = 0; i < collectionSize; i++)
             {
                 Point2D point = new Point2D(random);
                 if (Points.Contains(point)) continue; // This line ensures there are no same points in the list
@@ -30,15 +33,15 @@ namespace PE11VectorDistanceCalculation
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder(collectionSize);
+            StringBuilder sb = new StringBuilder(collectionSize);//var
 
-            for (int i = 0; i < Points.Count; i++)
+            for (int i = 0; i < Points.Count; i++)//not a fan, use {}
                 sb.AppendLine($"Point {i + 1}: ({Points[i]})");
 
             return sb.ToString();
         }
 
-        private void calculateTwoClosestPoints()
+        private void calculateTwoClosestPoints()//captialize first letter
         {
             double distance = Points[0].CalculateDistanceTo(Points[1]);
             List<Point2D> twoClosestPoints = new List<Point2D>(2) { Points[0], Points[1] };

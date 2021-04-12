@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helpers\VectorHelper.cs" />
     <Compile Include="Point3DCollection.cs" />
     <Compile Include="Point3D.cs" />
     <Compile Include="Point2D.cs" />
