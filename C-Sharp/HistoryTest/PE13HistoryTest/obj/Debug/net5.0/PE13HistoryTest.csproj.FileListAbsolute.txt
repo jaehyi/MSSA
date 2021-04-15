@@ -1,0 +1,16 @@
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\bin\Debug\net5.0\PE13HistoryTest.exe
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\bin\Debug\net5.0\PE13HistoryTest.deps.json
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\bin\Debug\net5.0\PE13HistoryTest.runtimeconfig.json
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\bin\Debug\net5.0\PE13HistoryTest.runtimeconfig.dev.json
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\bin\Debug\net5.0\PE13HistoryTest.dll
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\bin\Debug\net5.0\ref\PE13HistoryTest.dll
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\bin\Debug\net5.0\PE13HistoryTest.pdb
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\obj\Debug\net5.0\PE13HistoryTest.csprojAssemblyReference.cache
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\obj\Debug\net5.0\PE13HistoryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\obj\Debug\net5.0\PE13HistoryTest.AssemblyInfoInputs.cache
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\obj\Debug\net5.0\PE13HistoryTest.AssemblyInfo.cs
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\obj\Debug\net5.0\PE13HistoryTest.csproj.CoreCompileInputs.cache
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\obj\Debug\net5.0\PE13HistoryTest.dll
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\obj\Debug\net5.0\ref\PE13HistoryTest.dll
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\obj\Debug\net5.0\PE13HistoryTest.pdb
+C:\Users\Jae Yi\MSSA2021\ISTA421\Exercises\PE13HistoryTest\PE13HistoryTest\obj\Debug\net5.0\PE13HistoryTest.genruntimeconfig.cache
